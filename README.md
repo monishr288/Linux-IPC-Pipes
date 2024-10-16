@@ -1,3 +1,5 @@
+## NAME : R.MONISH
+## REG NO : 212223220061
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
@@ -22,9 +24,7 @@ Write the C Program using Linux Process API - pipe(), fifo()
 Testing the C Program for the desired output. 
 
 # PROGRAM:
-Developed By: Dharshini K
 
-Reg no:23010696
 ## C Program that illustrate communication between two process using unnamed pipes using Linux API system calls
 ```
 #include<stdio.h>
